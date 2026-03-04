@@ -1,4 +1,4 @@
-# External Sort Demo
+# External Sort
 Chương trình minh họa thuật toán External Sort cho file nhị phân chứa số double.
 
 ## Chức năng
